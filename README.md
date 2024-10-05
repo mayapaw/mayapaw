@@ -25,3 +25,6 @@
 
 ## ⚡ Fun fact:
 - I have a growing collection of adorable plushies and I always take one with me when I travel! 🧸💕
+
+---
+Profile picture credits to: scrimsart.com!
