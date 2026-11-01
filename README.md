@@ -1,26 +1,33 @@
-# Hi, I'm Maja — @mayapaw
+# 👋 Hi there, I'm Maja! (@mayapaw)
 
-Software developer based in Łódź, Poland. She/her.
+✨ Welcome to my little corner of GitHub! I'm a software developer from Łódź, Poland, with a soft spot for dark aesthetics, handmade things and learning new crafts. 🖤🌸
 
-I build tools with AI and automation, and spend more and more of my time making things away from the screen: clothes, jewellery, drawings and food.
+## 👀 What I'm into:
 
-## Code
+- Sewing my own clothes, especially skirts, lace and all things a little gothic 🧵🪡
+- Making jewellery — coming back to chainmail and getting curious about wirework and casting ⛓️💍
+- Drawing, filling sketchbook pages and finding a visual language that feels like mine ✏️📓
+- Niche perfumes and the strange, beautiful things a scent can make you feel 🥀🧪
+- Cooking, fermentation and understanding why food works the way it does 🥘🫙
+- Dark music, unsettling art and stories that stay with me 🎧🕯️
 
-JavaScript and TypeScript are my home base. I'm interested in personal software, AI integrations and tools that give people more time to do what matters to them.
+## 🌱 What I'm currently learning:
 
-Recently, that has meant working on **Maja OS**: a personal system where AI handles planning and updates through MCP, while the app keeps the information easy to read. The goal is less manual input and less time spent managing the system itself.
+- Turning clothing ideas into things I can actually wear 🪡
+- Building my drawing skills, one sketch at a time ✍️
+- Exploring perfume materials and how fragrances are composed 🌿
+- Bringing a little more care and experimentation to what I put on a plate 🍽️
 
-## Outside the editor
+## 🌙 What I'm dreaming of:
 
-- **Sewing & fashion** — making my own clothes and learning how to turn a sketch into something wearable.
-- **Jewellery** — returning to chainmail and exploring wirework and casting.
-- **Drawing & scent** — developing my visual language and learning about perfumery.
-- **Cooking** — fermentation, food science and experimenting with tasting menus.
+One day, I'd love to bring my own clothes, jewellery, scent, music, visuals and a shared dinner into one experience. For now, I'm taking it piece by piece — making things, trying things and sharing what I learn. 🖤
 
-I'm drawn to dark textures, imperfect forms and the space between unsettling and beautiful. A longer-term idea is to bring clothing, jewellery, scent, sound, visuals and a shared meal into one experience. For now, I'm learning the individual crafts and documenting the process.
+## 📫 Follow along:
 
-## Elsewhere
+I write about my experiments and things I'm making on [my blog](https://mayapaw-blog.vercel.app). 📓✨
 
-[My blog — notes, experiments & things I'm making](https://mayapaw-blog.vercel.app)
+## 😄 Pronouns: she/her
 
-Usually accompanied by Shiro, my black-and-tan Shiba Inu.
+## 🐾 A little about my everyday:
+
+My Shiba Inu, Shiro, makes sure there's always a walk between projects. 🐕🖤
