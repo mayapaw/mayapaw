@@ -1,27 +1,26 @@
-# 👋 Hi there, I'm Maya! (@mayapaw)
+# Hi, I'm Maja — @mayapaw
 
-✨ Welcome to my cozy corner of GitHub! I’m a software developer with a passion for building all kinds of cool projects, from game mods to AI-powered tools. 🌸
+Software developer based in Łódź, Poland. She/her.
 
-## 👀 What I’m interested in:
-- AI & automation 🤖
-- Game development (working on my own 3D voxel-based game!) 🎮
-- Building SaaS to make life easier 💻
-- Minecraft modding and creating new rituals in ObsidianCraft! 🌑
-- Improving my cooking skills and making YouTube videos 🥘
+I build tools with AI and automation, and spend more and more of my time making things away from the screen: clothes, jewellery, drawings and food.
 
-## 🌱 What I’m currently learning:
-- Mastering Godot for my game dev journey 🎲
-- Exploring advanced AI integrations and automations 🤖
-- Enhancing my TypeScript and Rust skills to power my side projects 💡
+## Code
 
-## 💞️ Collaboration:
-- Looking to collaborate on AI projects, especially ones that empower developers and creators!
-- Open to pairing up on cool game development projects 🎮
-  
-## 📫 How to reach me:
-- Drop me a message on GitHub or follow my journey on [my blog](https://mayaonlife.com) where I write about my tech adventures.
+JavaScript and TypeScript are my home base. I'm interested in personal software, AI integrations and tools that give people more time to do what matters to them.
 
-## 😄 Pronouns: She/Her
+Recently, that has meant working on **Maja OS**: a personal system where AI handles planning and updates through MCP, while the app keeps the information easy to read. The goal is less manual input and less time spent managing the system itself.
 
-## ⚡ Fun fact:
-- I have a growing collection of adorable plushies and I always take one with me when I travel! 🧸💕
+## Outside the editor
+
+- **Sewing & fashion** — making my own clothes and learning how to turn a sketch into something wearable.
+- **Jewellery** — returning to chainmail and exploring wirework and casting.
+- **Drawing & scent** — developing my visual language and learning about perfumery.
+- **Cooking** — fermentation, food science and experimenting with tasting menus.
+
+I'm drawn to dark textures, imperfect forms and the space between unsettling and beautiful. A longer-term idea is to bring clothing, jewellery, scent, sound, visuals and a shared meal into one experience. For now, I'm learning the individual crafts and documenting the process.
+
+## Elsewhere
+
+[My blog — notes, experiments & things I'm making](https://mayapaw-blog.vercel.app)
+
+Usually accompanied by Shiro, my black-and-tan Shiba Inu.
